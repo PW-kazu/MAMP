@@ -1,0 +1,121 @@
+[04-Jun-2022 16:12:21 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /Applications/MAMP/htdocs/course.php on line 4
+[04-Jun-2022 16:12:22 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /Applications/MAMP/htdocs/course.php on line 4
+[04-Jun-2022 16:12:24 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /Applications/MAMP/htdocs/course.php on line 4
+[05-Jun-2022 08:59:08 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 7
+[05-Jun-2022 09:14:31 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 7
+[05-Jun-2022 09:16:57 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 7
+[05-Jun-2022 09:22:05 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 7
+[05-Jun-2022 09:32:07 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 7
+[05-Jun-2022 09:57:21 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Applications/MAMP/htdocs/course.php on line 6
+[05-Jun-2022 11:19:52 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:19:54 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:18 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:20 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:20 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:20 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:21 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:21 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:21 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:21 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:21 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:21 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:22 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:22 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:22 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:21:22 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '=' in /Applications/MAMP/htdocs/course.php on line 8
+[05-Jun-2022 11:46:13 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 7
+[05-Jun-2022 11:51:31 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 7
+[05-Jun-2022 12:20:10 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 12:20:11 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:41 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:41 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:41 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:42 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:42 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:42 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:42 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:42 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:42 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:43 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:43 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:43 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[05-Jun-2022 17:17:43 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /Applications/MAMP/htdocs/course.php on line 3
+[06-Jun-2022 08:20:37 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 08:45:15 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '；' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 8
+[06-Jun-2022 08:45:17 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '；' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/course.php on line 8
+[06-Jun-2022 09:54:05 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Applications/MAMP/htdocs/course.php on line 4
+[06-Jun-2022 10:15:07 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 10:15:21 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 4
+[06-Jun-2022 10:15:21 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 10:15:58 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 4
+[06-Jun-2022 10:15:58 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 10:16:00 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 4
+[06-Jun-2022 10:16:00 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 10:16:00 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 4
+[06-Jun-2022 10:16:00 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 10:16:01 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 4
+[06-Jun-2022 10:16:01 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 10:16:01 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 4
+[06-Jun-2022 10:16:01 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 10:16:01 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 4
+[06-Jun-2022 10:16:01 Asia/Tokyo] PHP Notice:  Undefined variable: people1 in /Applications/MAMP/htdocs/course.php on line 6
+[06-Jun-2022 10:39:59 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/course.php on line 15
+[06-Jun-2022 12:58:10 Asia/Tokyo] PHP Warning:  Use of undefined constant ENT_QUTES - assumed 'ENT_QUTES' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/course.php on line 2
+[06-Jun-2022 12:58:10 Asia/Tokyo] PHP Warning:  htmlspecialchars() expects parameter 2 to be int, string given in /Applications/MAMP/htdocs/course.php on line 2
+[06-Jun-2022 12:58:10 Asia/Tokyo] PHP Notice:  Undefined variable: ccompany in /Applications/MAMP/htdocs/course.php on line 3
+[06-Jun-2022 13:07:14 Asia/Tokyo] PHP Warning:  Use of undefined constant ENT_QUTES - assumed 'ENT_QUTES' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/course.php on line 2
+[06-Jun-2022 13:07:14 Asia/Tokyo] PHP Warning:  htmlspecialchars() expects parameter 2 to be int, string given in /Applications/MAMP/htdocs/course.php on line 2
+[06-Jun-2022 13:07:14 Asia/Tokyo] PHP Notice:  Undefined variable: ccompany in /Applications/MAMP/htdocs/course.php on line 3
+[06-Jun-2022 13:07:41 Asia/Tokyo] PHP Notice:  Undefined index: company in /Applications/MAMP/htdocs/course.php on line 2
+[06-Jun-2022 13:07:41 Asia/Tokyo] PHP Warning:  Use of undefined constant ENT_QUTES - assumed 'ENT_QUTES' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/course.php on line 2
+[06-Jun-2022 13:07:41 Asia/Tokyo] PHP Warning:  htmlspecialchars() expects parameter 2 to be int, string given in /Applications/MAMP/htdocs/course.php on line 2
+[06-Jun-2022 13:07:41 Asia/Tokyo] PHP Notice:  Undefined variable: ccompany in /Applications/MAMP/htdocs/course.php on line 3
+[06-Jun-2022 15:10:06 Asia/Tokyo] PHP Notice:  Undefined index: Value in /Applications/MAMP/htdocs/cookie1.php on line 7
+[06-Jun-2022 15:10:09 Asia/Tokyo] PHP Notice:  Undefined index: value in /Applications/MAMP/htdocs/cookie2.php on line 4
+[06-Jun-2022 15:10:12 Asia/Tokyo] PHP Notice:  Undefined index: value in /Applications/MAMP/htdocs/cookie2.php on line 4
+[06-Jun-2022 15:10:13 Asia/Tokyo] PHP Notice:  Undefined index: value in /Applications/MAMP/htdocs/cookie2.php on line 4
+[06-Jun-2022 15:10:15 Asia/Tokyo] PHP Notice:  Undefined index: value in /Applications/MAMP/htdocs/cookie2.php on line 4
+[06-Jun-2022 15:10:16 Asia/Tokyo] PHP Notice:  Undefined index: value in /Applications/MAMP/htdocs/cookie2.php on line 4
+[06-Jun-2022 15:10:18 Asia/Tokyo] PHP Notice:  Undefined index: value in /Applications/MAMP/htdocs/cookie2.php on line 4
+[07-Jun-2022 13:42:09 Asia/Tokyo] PHP Notice:  Undefined index: language in /Applications/MAMP/htdocs/session_destroy.php on line 9
+[07-Jun-2022 13:42:15 Asia/Tokyo] PHP Notice:  Undefined index: language in /Applications/MAMP/htdocs/session_destroy.php on line 9
+[07-Jun-2022 13:42:17 Asia/Tokyo] PHP Notice:  Undefined index: language in /Applications/MAMP/htdocs/session_destroy.php on line 9
+[07-Jun-2022 13:42:17 Asia/Tokyo] PHP Notice:  Undefined index: language in /Applications/MAMP/htdocs/session_destroy.php on line 9
+[07-Jun-2022 13:42:18 Asia/Tokyo] PHP Notice:  Undefined index: language in /Applications/MAMP/htdocs/session_destroy.php on line 9
+[07-Jun-2022 13:42:19 Asia/Tokyo] PHP Notice:  Undefined index: language in /Applications/MAMP/htdocs/session_destroy.php on line 9
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined index: picture in /Applications/MAMP/htdocs/file.php on line 2
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 2
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 5
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/file.php on line 5
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 7
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/file.php on line 7
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 9
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/file.php on line 9
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 11
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/file.php on line 11
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 13
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/file.php on line 13
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 16
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/file.php on line 16
+[07-Jun-2022 14:44:00 Asia/Tokyo] PHP Notice:  Undefined variable: succce in /Applications/MAMP/htdocs/file.php on line 24
+[07-Jun-2022 14:44:46 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 2
+[07-Jun-2022 14:44:46 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Unsupported operand types in /Applications/MAMP/htdocs/file.php:2
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/file.php on line 2
+[07-Jun-2022 14:45:48 Asia/Tokyo] PHP Notice:  Undefined variable: file in /Applications/MAMP/htdocs/file.php on line 2
+[07-Jun-2022 14:45:48 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Unsupported operand types in /Applications/MAMP/htdocs/file.php:2
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/file.php on line 2
+[07-Jun-2022 14:47:39 Asia/Tokyo] PHP Notice:  Undefined variable: success in /Applications/MAMP/htdocs/file.php on line 24
+[07-Jun-2022 16:02:36 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:02:39 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:02:39 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:02:39 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:02:39 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:02:40 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:03:31 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:03:36 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:04:23 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 16
+[07-Jun-2022 16:05:36 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'PDO' (T_STRING) in /Applications/MAMP/htdocs/mydb.php on line 15
